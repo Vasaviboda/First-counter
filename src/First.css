@@ -1,0 +1,49 @@
+*{
+    background-color:#cbb4d4;
+    margin: 0;
+   
+}
+
+.container{
+   color:rgb(255, 0, 212);
+}
+
+button{
+    width:150px;
+    height:50px;
+    background-color:#265cb2;
+
+    border-radius: 20px;
+    cursor: pointer;
+    color:rgba(32, 2, 2, 0.733);
+    font-size: 2.0rem;
+    box-shadow: #bf48a5;
+}
+#header{
+    text-align: center;
+    color: rgb(188, 24, 21);
+    background: black;
+}
+    
+p{
+    
+      color: #6448bf;
+      margin-top: 40px;
+      font-size: 1.5rem;
+      font-style: oblique;
+      text-shadow: 2px 2px 4px black;
+
+}
+
+
+
+
+.btn_container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+    
+}
